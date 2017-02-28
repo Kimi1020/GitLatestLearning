@@ -3,4 +3,6 @@ Git is free software.
 
 Git is a distributed version control system.
 
-my stupid boss will perfer SVN.
+my stupid stupid boss will perfer SVN.
+
+Creating  a new branch is quick.
