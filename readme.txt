@@ -3,4 +3,4 @@ Git is free software.
 
 Git is a distributed version control system.
 
-erer
+my stupid boss will perfer SVN.
